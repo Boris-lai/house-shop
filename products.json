@@ -1,0 +1,44 @@
+[
+    {
+        "user": "1",
+        "name": "Cosy Chair",
+        "category": "chair",
+        "description": "A nice chair from JAPAN",
+        "rating": 4,
+        "numReviews": 1,
+        "price": 599,
+        "countInStock": 7,
+        "reviews": [
+            {
+                "user": "1",
+                "name": "Boris Lai",
+                "rating": 4,
+                "comment": "😊"
+            }
+        ],
+        "images":[
+            "01.jpg"
+        ]
+    },
+    {
+        "user": "1",
+        "name": "Cosy Desk",
+        "category": "desk",
+        "description": "A nice chair from Taiwan",
+        "rating": 4,
+        "numReviews": 1,
+        "price": 799,
+        "countInStock": 6,
+        "reviews": [
+            {
+                "user": "1",
+                "name": "Boris Lai",
+                "rating": 4,
+                "comment": "😃"
+            }
+        ],
+        "images":[
+            "02.jpg"
+        ]
+    }
+]
